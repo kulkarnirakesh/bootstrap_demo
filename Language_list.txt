@@ -1,0 +1,39 @@
+<div class="mtm locales">
+<ul class="uiList localeSelectorList _509- _4ki _6-h _6-j _6-i">
+<li>
+<a id="u_0_0" title="English (US)" onclick="intl_set_cookie_locale("en_US", "https:\/\/www.facebook.com\/");" href="https://www.facebook.com/" dir="ltr">English (US)</a>
+</li>
+<li>
+<a id="u_0_1" title="Marathi" onclick="intl_set_cookie_locale("mr_IN", "https:\/\/mr-in.facebook.com\/");" href="https://mr-in.facebook.com/" dir="ltr">मराठी</a>
+</li>
+<li>
+<a id="u_0_2" title="Hindi" onclick="intl_set_cookie_locale("hi_IN", "https:\/\/hi-in.facebook.com\/");" href="https://hi-in.facebook.com/" dir="ltr">हिन्दी</a>
+</li>
+<li>
+<a id="u_0_3" title="Urdu" onclick="intl_set_cookie_locale("ur_PK", "https:\/\/ur-pk.facebook.com\/");" href="https://ur-pk.facebook.com/" dir="rtl">اردو</a>
+</li>
+<li>
+<a id="u_0_4" title="Gujarati" onclick="intl_set_cookie_locale("gu_IN", "https:\/\/gu-in.facebook.com\/");" href="https://gu-in.facebook.com/" dir="ltr">ગુજરાતી</a>
+</li>
+<li>
+<a id="u_0_5" title="Spanish" onclick="intl_set_cookie_locale("es_LA", "https:\/\/es-la.facebook.com\/");" href="https://es-la.facebook.com/" dir="ltr">Español</a>
+</li>
+<li>
+<a id="u_0_6" title="Portuguese (Brazil)" onclick="intl_set_cookie_locale("pt_BR", "https:\/\/pt-br.facebook.com\/");" href="https://pt-br.facebook.com/" dir="ltr">Português (Brasil)</a>
+</li>
+<li>
+<a id="u_0_7" title="French (France)" onclick="intl_set_cookie_locale("fr_FR", "https:\/\/fr-fr.facebook.com\/");" href="https://fr-fr.facebook.com/" dir="ltr">Français (France)</a>
+</li>
+<li>
+<a id="u_0_8" title="German" onclick="intl_set_cookie_locale("de_DE", "https:\/\/de-de.facebook.com\/");" href="https://de-de.facebook.com/" dir="ltr">Deutsch</a>
+</li>
+<li>
+<a id="u_0_9" title="Italian" onclick="intl_set_cookie_locale("it_IT", "https:\/\/it-it.facebook.com\/");" href="https://it-it.facebook.com/" dir="ltr">Italiano</a>
+</li>
+<li>
+<a class="showMore" role="button" href="#" title="Show more languages" ajaxify="/settings/language/language/?uri=https%3A%2F%2Fwww.facebook.com%2F&source=TOP_LOCALES_DIALOG" rel="dialog">…</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
